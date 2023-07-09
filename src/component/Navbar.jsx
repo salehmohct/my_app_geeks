@@ -12,6 +12,7 @@ const NavBar = () => {
           <NavLink to={Paths.cart}>Cart</NavLink>
         </li>
         <li>saleh</li>
+        <li>mohsen</li>
       </ul>
     </>
   );
